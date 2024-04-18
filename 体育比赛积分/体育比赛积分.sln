@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "体育比赛积分", "体育比赛积分\体育比赛积分.vcxproj", "{13698577-F804-4572-977E-BCA7D6B011EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13698577-F804-4572-977E-BCA7D6B011EE}.Debug|x64.ActiveCfg = Debug|x64
+		{13698577-F804-4572-977E-BCA7D6B011EE}.Debug|x64.Build.0 = Debug|x64
+		{13698577-F804-4572-977E-BCA7D6B011EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{13698577-F804-4572-977E-BCA7D6B011EE}.Debug|x86.Build.0 = Debug|Win32
+		{13698577-F804-4572-977E-BCA7D6B011EE}.Release|x64.ActiveCfg = Release|x64
+		{13698577-F804-4572-977E-BCA7D6B011EE}.Release|x64.Build.0 = Release|x64
+		{13698577-F804-4572-977E-BCA7D6B011EE}.Release|x86.ActiveCfg = Release|Win32
+		{13698577-F804-4572-977E-BCA7D6B011EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E590B24-9828-4CCF-B4D0-B5CDF4ECFF20}
+	EndGlobalSection
+EndGlobal

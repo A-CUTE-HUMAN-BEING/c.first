@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c\u8BED\u8A00\u7EC3\u4E60\\\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13698577-F804-4572-977E-BCA7D6B011EE}|\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206.vcxproj|E:\\c\u8BED\u8A00\u7EC3\u4E60\\\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\pe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13698577-F804-4572-977E-BCA7D6B011EE}|\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206.vcxproj|solutionrelative:\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\pe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\86139\\Desktop\\pe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pe.c",
+              "DocumentMoniker": "E:\\c\u8BED\u8A00\u7EC3\u4E60\\\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\pe.c",
+              "RelativeDocumentMoniker": "\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\pe.c",
+              "ToolTip": "E:\\c\u8BED\u8A00\u7EC3\u4E60\\\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\pe.c",
+              "RelativeToolTip": "\u4F53\u80B2\u6BD4\u8D5B\u79EF\u5206\\pe.c",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T14:12:23.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pe.c",
+              "DocumentMoniker": "C:\\Users\\86139\\Desktop\\pe.c",
+              "ToolTip": "C:\\Users\\86139\\Desktop\\pe.c",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAE4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2023-03-20T12:37:44.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
